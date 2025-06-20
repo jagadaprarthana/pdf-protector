@@ -22,8 +22,8 @@ Before you can run this script, ensure you have the following installed:
  **Clone the repository** (or download the `protection.py` and `requirements.txt` files):
 
     ```bash
-    git clone https://github.com/jagadaprarthana/pdf-protector.git
-    cd pdf-protector
+    git clone https://github.com/jagadaprarthana/python-pdf-protector.git
+    cd python-pdf-protector
     ```
 
 ## Usage
